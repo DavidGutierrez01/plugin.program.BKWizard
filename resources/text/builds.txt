@@ -14,7 +14,7 @@ description="General purpose build of FENTastic"
 
 name="FENTastic David Build"
 version="1.0"
-url="http://davidgutierrez01.github.io/FenBuilds/FENTastic/(20.X)%20FENTastic-David.zip"
+url="https://www.dropbox.com/scl/fi/szfe998a6s40xc6i9jvrj/20.X-FENTastic-David.zip?rlkey=cv48n2yq1k7q49rrind2z54ss&dl=0"
 minor=""
 gui="http://your.guisettings.url/"
 kodi="19.0"
